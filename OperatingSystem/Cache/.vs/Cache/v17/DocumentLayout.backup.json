@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56268061-006A-4B3C-A282-B5049D9356D3}|Cache\\Cache.vcxproj|D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LRU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56268061-006A-4B3C-A282-B5049D9356D3}|Cache\\Cache.vcxproj|solutionrelative:Cache\\LRU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56268061-006A-4B3C-A282-B5049D9356D3}|Cache\\Cache.vcxproj|D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LFU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56268061-006A-4B3C-A282-B5049D9356D3}|Cache\\Cache.vcxproj|solutionrelative:Cache\\LFU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56268061-006A-4B3C-A282-B5049D9356D3}|Cache\\Cache.vcxproj|D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\FIFO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56268061-006A-4B3C-A282-B5049D9356D3}|Cache\\Cache.vcxproj|solutionrelative:Cache\\FIFO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FIFO.cpp",
+              "DocumentMoniker": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\FIFO.cpp",
+              "RelativeDocumentMoniker": "Cache\\FIFO.cpp",
+              "ToolTip": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\FIFO.cpp",
+              "RelativeToolTip": "Cache\\FIFO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-14T03:30:12.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LFU.cpp",
+              "DocumentMoniker": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LFU.cpp",
+              "RelativeDocumentMoniker": "Cache\\LFU.cpp",
+              "ToolTip": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LFU.cpp*",
+              "RelativeToolTip": "Cache\\LFU.cpp*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-14T03:30:05.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LRU.cpp",
+              "DocumentMoniker": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LRU.cpp",
+              "RelativeDocumentMoniker": "Cache\\LRU.cpp",
+              "ToolTip": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LRU.cpp*",
+              "RelativeToolTip": "Cache\\LRU.cpp*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-14T03:29:59.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
