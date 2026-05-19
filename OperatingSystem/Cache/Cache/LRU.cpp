@@ -60,6 +60,9 @@ public:
 	}
 
 	void put(K key, V value) {
+		if (capacity <= 0) {
+			return;
+		}
 		if (!cache.count(key)) {
 			if (++size > capacity) {
 				NodePtr remove = removeTail();

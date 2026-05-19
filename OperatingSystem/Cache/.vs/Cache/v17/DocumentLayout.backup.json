@@ -38,8 +38,7 @@
               "RelativeToolTip": "Cache\\FIFO.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-14T03:30:12.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T03:30:12.559Z"
             },
             {
               "$type": "Document",
@@ -47,9 +46,9 @@
               "Title": "LFU.cpp",
               "DocumentMoniker": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LFU.cpp",
               "RelativeDocumentMoniker": "Cache\\LFU.cpp",
-              "ToolTip": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LFU.cpp*",
-              "RelativeToolTip": "Cache\\LFU.cpp*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LFU.cpp",
+              "RelativeToolTip": "Cache\\LFU.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-14T03:30:05.384Z",
               "EditorCaption": ""
@@ -60,9 +59,9 @@
               "Title": "LRU.cpp",
               "DocumentMoniker": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LRU.cpp",
               "RelativeDocumentMoniker": "Cache\\LRU.cpp",
-              "ToolTip": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LRU.cpp*",
-              "RelativeToolTip": "Cache\\LRU.cpp*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAmwC0AAAAEAAAAAAAAAA==",
+              "ToolTip": "D:\\Programme\\CPP\\VisualStudio\\programs\\CPP\\OperatingSystem\\Cache\\Cache\\LRU.cpp",
+              "RelativeToolTip": "Cache\\LRU.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-14T03:29:59.204Z",
               "EditorCaption": ""
